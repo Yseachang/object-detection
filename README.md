@@ -1,9 +1,5 @@
-<a name="object-detection"></a>
-
 # object-detection
-
-[https://github.com/user-attachments/assets/414444a7-af1f-41d7-aded-4f73518f0326](https://github.com/user-attachments/assets/414444a7-af1f-41d7-aded-4f73518f0326)
-<a name="XWgSl"></a>
+https://github.com/user-attachments/assets/ed060edf-0afc-47e8-a13b-c565f2b141bc
 
 # 简介
 
