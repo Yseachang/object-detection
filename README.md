@@ -1,4 +1,4 @@
-# object-detection
+# 基于嵌入式设备的目标检测（云端部署模型）
 # 效果展示
 
 https://github.com/user-attachments/assets/ed060edf-0afc-47e8-a13b-c565f2b141bc
